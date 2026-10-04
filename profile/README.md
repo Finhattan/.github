@@ -1,4 +1,9 @@
-# Finhattan
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/finhattan-horizontal-blanco.svg">
+    <img alt="Finhattan" src="assets/finhattan-horizontal-navy.svg" width="320">
+  </picture>
+</p>
 
 **Forward deployed engineering firm building on-chain infrastructure inside banks and financial institutions.**
 
